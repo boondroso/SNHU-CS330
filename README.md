@@ -1,4 +1,4 @@
-# SNHU-CS330
+
 # 3D Scene Project – OpenGL  
 
 ## Project Overview  
